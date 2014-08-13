@@ -21,6 +21,36 @@ regularly + provide an informative commit statement, such as:-
 But do be careful on the command line with git, particularly if it's not
 wanting to merge. You can delete history.
 
+## Formatting
+
+### Author attribution
+
+Author attribution done with the `\attrib` magic
+i.e.
+
+```
+\attrib{Jarvist Moore Frost}
+```
+
+### Footnotes
+
+Footnotes are added with the `\footnote{}` code; in the Tuft form they appear
+as numbered small text in the column. This is good for adding editorial 
+future-observations / corrections without disrupting the narritative flow (i.e.
+lead renamed, or lead noticed which is followed up in the future etc.)
+
+### Pictures
+
+Currently we are including pictures by using the Latex-fall-through mode of
+Markdown, which is rather complicated:-
+```
+\begin{figure*}
+\includegraphics[width=0.85\columnwidth]{2010/2010_deep_vrtnarija_colour_coded_inverted_labelled}
+\caption{Colour coded diagram of new cave discovered \& surveyed in 2010 in
+Vrtnarija.}
+\end{figure*}
+```
+
 ## Technical Details
 
 The individual chapter files are stored in subdirectories (2011,2012 etc.)
