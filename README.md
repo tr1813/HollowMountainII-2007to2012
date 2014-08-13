@@ -9,6 +9,8 @@ Currently the editors are: Jarvist... {{ your name here, pretty please }}
 
 Trello board for organisation: https://trello.com/b/k97lugrL/the-hollow-mountain-ii-2007-2012
 
+Google Doc's Story 'Hit list': https://docs.google.com/spreadsheet/pub?key=0AnIVS9y2g3bAdGo2eHgzVWNUN3cxeGx5THNMdkkycnc&single=true&gid=0&output=html
+
 ## Editing / Contributing
 
 As we are in version control with git, don't worry about breaking things by
