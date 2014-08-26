@@ -504,6 +504,30 @@ Thinking partly of the initial nervousness with which I had slowly posted myself
 
 \attrib{Dave Wilson}
 
+Last year we manage to connect Captain K. with lower parts of Vrtnarija (friendship gallery), so I could not wait to go caving again, especially to first descent the whole Pico. 
+
+Dan and I decided to go camping in X-ray, which was after re-established after many years.
+
+We were on the night train. So the plan was to go caving late at night, reach the camp in the morning and then go straight to bed. When we reached the camp we find a note, asking if we could wait a bit longer, because the other team return late. We decided to go and check out the newly discovered parts and maybe find some leads for tomorrow. When we return to X-ray we meet our tent mates Gergely and Niko, who just return from their caving trip. We prepared some food, change to dry clothes and went into sleeping bags, while others started preparing for caving. It was funny to watch how they were not happy to put on wet caving clothes.
+
+\attrib{Iztok 'Izi' Mozir}
+
+## Palace of king Minos, Queen Bed chamber, Minotaur rift and Ouroboros
+
+We were woken up by Jarv and Jan who just return from their pushing trip. While cursing wet clothes we discussed what they find and what is worth to go and push. Soon we took off and separated on the bottom of Cheetah. Gergley and Niko went down Wonderland, Dan and I went to Prince Consort Road. Road lead us to Albert hall where not long ago Jarv and Jan were pushing Serpentine. We decided to push some new leads, so we climbed higher in this chamber and from there we saw a big gallery. To reach this gallery we needed to climb about 6m high. Dan gave me a push up and I was able to reach the top. There I secured the rope around the bolder and Dan joined me. From there we made a traverse and then entered the gallery. Already on the entrance we noticed something amazing. The ceiling was covered with white crystals, that we never accounted before. That meant this is an old phreatic gallery and we were so lucky to be the first one to discover it. Also the soil on the ground was brown on top and once we stepped on it, it was white underneath. Our first steps left white trails of footsteps behind, truly amazing. We were really careful with our steps, as we did not want to make to much damage. We mainly stick to the main passage and there were no pitches or tight squeezes, perfect for exploring. On the end of this gallery we were stopped by an aven. We could not climb it, so we decided to return and start surveying back. On the way back we took another side passage which lead us back to Albert hall. Because we made a loop and the hole place look like a maze, we name it Palace of King Minos, the side passage was named Ouroboros, cuz it was a loop to Albert hall and also we named the big rift Minotaur. We left one side passage for next time, because we were already tired. Surveying this gallery was a pure joy. Long distanced between stations, minimum of 10 m. Both of us were extremely happy with our discovery and so we return to X-ray for well deserved rest. In the camp we meet the other team and also they find some new meters. We exchange our trip experience and fall a sleep.
+
+When we woke up, we were surprised by roaring in Zimmer. During the day it was raining outside, therefore a lot of water was purring down Zimmer. Dan and I still have one more night at a camp, but because Niko and Gergely were not feeling to go out in these conditions, we volunteered to do it. Beside, someone had to cancel their call out. So we eat something and start going up to the surface. I was first heading out, but before I fully attached myself on the rope in Zimmer, I was already all wet. I told Dan that I will not wait for him and because we both know the way out, we will see each other on the surface. I was going for about an hour, stopped, roll 2 cigarettes, smoke one, and leave one for Dan and then continue out. Below Pico, I repeated the same procedure, so at that time Dan catches me up and we continued together. Above Pico it was less water so that meant that the rain has stop. We reached the surface in 3 and half hours. In the bivy we entered the data and we were so happy when we heard that we surveyed more than 500 m, especially how easy was to do it.
+
+\attrib{Iztok 'Izi' Mozir}
+
+## Discovering Povodni Mož
+
+After couple of days on the surface, I decided to do some camping with my Slovenian mates. Tjaša, Erik, Mawer and I started to walk towards the entrance around 2 am. We reached the camp too early for our bed time, so we decided to go and check out the crystals. After that we still have some spear time so we decided to go and try digging in Minotaur rift, where last time with Dan we could here big roaring of water. After couple of hours moving boulders with no luck, we returned to camp.
+
+The next day we made a plan to push one lead in Palace of King Minos, that we didn’t push with Dan. The entrance was quite narrow, but soon we arrived to a series of pitches with water. We had enough of rope to bolt 2 pitches and decided to name it Povodni mož, cuz we followed the water all the time.
+
+\attrib{Iztok 'Izi' Mozir}
+
 ## M2 --- Kavkna Jama
 
 The JSPDT organised a trip based at the mountain hut at Kal on 2nd October

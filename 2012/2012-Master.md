@@ -547,7 +547,6 @@ Some of the Urinal series pitch heads were really quite acrobatic when dragging 
 
 \attrib{Jarvist Moore Frost}
 
-
 ## Prospect for 2013
 
 Despite the success of the 2012 expedition, it is clear that there remains a large amount of cave to be discovered in Vrtnarija and Migovec. 

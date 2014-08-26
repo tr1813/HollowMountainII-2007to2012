@@ -546,6 +546,32 @@ Oh, the lure of deep cave exploration...
 
 \attrib{Clare Tan}
 
+##Let na Drugi Svet 
+
+Kletnik and I decided to go camping. We started at 9pm and arrived to camp really early. There was enough time to go and show Kletnik the crystals. Once back in the camp, Kate and Jan were already getting ready to go out. We ate a bit and went to bed. 
+
+Once awake, we quickly ate and pack and were on the way to Serpentine. Here we climbed up for about 4 m and the passage above led to about 26 m pitch. We bolted and start going down. Half way down was a big rubbing point so we made a rebelay. At the bottom there was a bolder choke and we tried to find a way through. After some hard work, I finally managed to squeeze through. Kletnik, being bigger than me, could not follow me. We tried to make the squeeze bigger, but with no success. On my own I continued to explore. But after 20 m, I was stopped by another tight space. With a bit of digging, it was passable. I returned back to Kletnik and explained the situation. He was keen to come back and do some digging. We surveyed on they way back and named the passage Let na Drugi Svet. Back in bed, Kletnik could not sleep. He was treating his insomnia with watching lots of Popaj.
+
+\attrib{Iztok 'Izi' Mozir}
+
+## Bolt climbing in Queen's bed Chamber
+
+After a couple of days of none caving, Gergley invited me to go camping with him, as he had a plan. The plan was to bolt climb the aven at the end of Queen's bed Chamber. Therefore he packed a lot of stuff as he was even afraid, that he might run out of stuff. On the end we carried down 3 tackle sacks. 
+
+Once in a camp we packed all necessary for bolt climbing. When we arrived, I said to Gergely “You start climbing first”. Gergley looked at me and said: » I have never bolt climbed before, you go first«. I looked at him back and said: » Well, I have never bolt climbed before either. I have always free climbed« We start to laughing and decided that for sure can not be that hard and start to making a plan on how to do it. I started to bolt climb first, while Gergely was belaying me. After 9 m I was stopped by a big patch of mud. I tried to do the bolt above it, but was about 30 cm to short to drill a hole above the mud. At this point I decided that this is the end of climbing for today. I was climbing with a dynamic rope so what was left to do was to safely secure the static rope, till the point where I was able to reach. 
+
+Back to the camp, while eating we were making plans for the next day.
+
+\attrib{Iztok 'Izi' Mozir}
+
+## The continuation of Stuck in Paradise
+
+We started going towards Stuck in paradise to push this pitch that Jana and Gergeley started bolting. On the way there, he was explaining how big pitch is and that I will like it. When we arrived there, he was true about the big pitch, but he didn’t told me that is full of mud. Once Gergley went down with a drill on a bolting mission, I started smoking and singing to myself. After an hour or so, Gergley gave me the signal that I can start descending. He make a hell of a rigging, was really nice considering all the mud. Once we reach the bottom, all the effort was paid off. We arrived to horizontal gallery similar to Palace of King Minos. We followed the main passage all the way to the end, and were stopped by a bolder choke. We tried to drill and hammered our way through, but with no luck, so we decided to start surveying back. Because the passage was wide, it was easy to survey. Soon we reach the bottom of Stuck at paradise and just a couple of meters before we noticed that the draft goes into the side passage. We started crawling in this passage and it was tight all the way, so after about 30 m we encounter another bolder choke. We notice that you can go through, but we decided to leave it for some other team. So we surveyed back to the main passage, but it was quite an effort. We name it Penitence, because you crawl most of the time on your knees and the main passage was named Lost miles. All what was left to do is surveying Stuck in Paradise pitch. It was quite a challenge because it was hard to read the instruments due to a lot of mud. On the end, we connected everything with P.S.S. in Magic dragon. Then was time for quick smoke, I took some pictures and we returned to the camp.
+
+After a good sleep, we were woken by Tetley and Clare. On the way down to the camp, they meet the other team, who told them what we found. Soon as Tetley saw us, he wanted to see our survey book. I was carrying it in my tackle bag, but when I wanted to show it to Tetley, I couldn’t find it. We start to panic for a bit and then I realized that it probably fell out when we stop for smoke in Magic dragon. We rushed back there and with huge relieve we found it. Back in the camp, I showed the survey book to Tetley. He immediately started to count the meters and then smiled to me and said: » Again you found more than 500 m, you are lucky because the right peoples are choosing you”. I replied: “This is not luck, I only take the right peoples with me or they take me”.  After that was time to return to the surface for tea and medals ;).
+
+\attrib{Iztok 'Izi' Mozir}
+
 ## Winter Journey
 
 I have never been to the 'deep' part of Vrtnarija, below Big Rock Candy Mountain. 

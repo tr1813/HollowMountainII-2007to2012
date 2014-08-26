@@ -286,6 +286,18 @@ But it would take a few more brocken drill carries to make me wizen up electrica
 
 \attrib{James Kirkpatrick}
 
+## Discovering Dark Tranquillity
+
+Year was quickly around and I was back on Mig with unfinished business at the bottom of “Kill Em All”. There was no Rick on Mig this year, so I teamed up with James KP. A plan was created and soon we were on the way. As traditionally, I smoked one before entering Vrtnarija. 
+
+Here we go again, couple of pitches, few squeezes and we are on top of Pico. Before entering Captain it was time for a second cigarette. This year the squeezes were much easier, as I knew the tricks on how to handle the awkward squeezes. Quite quickly we were on top of “Kill Em All” and reached the bottom with no problems. 
+
+At the bottom we started checking out the leads and soon one was dead. Only one was the way on. After through a small meander we ended up on top of a big pitch. Only one bolt was needed, as there was a really nice natural. James went down first and after about 20 m he reached a ledge. I followed down and we realised pitch goes on. We had to put in another bolt as the rope would rub against the ledge. James started bolting and I had time to look round as the ledge was relatively big. We noticed windows on the side and naturally thought that this could be the way to M2. We did not have any climbing equipments, so we had to continue down. Soon we arrived to another pitch. We did not have any more rope, so we had to return back. While surveying we noticed how beautiful the pitch was. We named it Dark Tranquillity. 
+
+Once in the bivy, we were given a well deserved dinner and Jarv was already on the mission to enter the data. The bottom of Dark Tranquillity goes towards lower parts of Vrtnarija – towards Friendship Gallery and it is already to low to connect to M2. 
+
+\attrib{Iztok 'Izi' Mo\uzir}
+
 ## Raw Logbook Writeups
 
 Typed by Jarv, 23-26th Dec 2011.

@@ -349,6 +349,25 @@ The leads we left in Kangaroo this year will be far too tantalising to sideline 
 The prospect of a connection with the System seems very likely and next year we're already planning a return to M2 to resurvey (our current data comes from a 1970s survey carried out with a home-built clinometer!) and to exhaust the deep leads.
 
 \attrib{Richard Venn}
+
+## First time in M16
+
+It was my first year on Mig and I was very excited to go caving and join the ICCC on top. Till now, we were only caving in Primadona while staying at Kal. One day Erik and I decided to go and rather than sleep at Kal, sleep on top with the English. We stayed up for a couple of days. Our first caving trip was in M16. Tetley took us to the bottom of Sajeta. From XXX onwards Tetley was unsure of the rope and said that his brains are telling him not to go further, but his heart wants to go. Tetley descended Sajeta first, followed by myself and then Erik. When I arrived at the bottom, Tetley was acting really seriously and said to me » What are you doing here? « I was bit confused why is he asking me that and though we should not follow him down. He then asked me the same question couple of times which made me even more confused. On the end I finally said to him, that I am here to cave. He then replied « If you are on holidays, why are you here and not chasing girls on Croatia beach? « We start laughing. Same happened to Erik. 
+
+On the way out Tetley was rushing us to get out (we were leading the way to memorise the cave), as he did not want to miss the call out. At that time we did not know what a call out was and so we speeded up. On the end I was really tired, but it was worth it. 
+
+\attrib{Iztok 'Izi' Mo\uzir}
+ 
+## Bolting “Kill Em All”
+
+During the ever long breakfast in the Bivy, Rick was asking who wants to go with him to Captain Kangaroo. Nobody volunteered immediately. Tetley said he can go, but only to Bonus chamber and then pointed to me and said » Izi, you should go! « I agreed and soon we were packing all the necessary equipment. 
+
+This was my first time in Vrtnarija and at the beginning was nothing to serious, lovely pitches, couple of squeezes and soon we were on top of Pico. Rick warned me to use the red rope, which is going right into the Captain Kangaroo. Before we enter the Captain Rick said »'So, this is it! Now fun begins! « We all smoked one and off we go. Tetley turned back at Bonus chamber. Rick knew the way on so he was the leader. We soon arrived to Mudslump with few very tight and tricky squeezes. 
+
+Once through, we free climbed couple of small pitches and arrived to a small chamber. The way on was through a squeeze witch led to a top of the pitch. It was very little space here, not even enough to do the bolting properly. After couple of minutes of thinking and couple of cigarettes we had a plan. One of us would go on the rope, while the other one will attach the rope to his croll, get stuck in the squeeze and hold the other one until bolting finished. Rick was brave enough to trust me, so he did the bolting. During the bolting I smoked a lot and we chatted about the music. We both knew the first Metallica album and so we decide to name this pitch “Kill Em All”. The way down was no problem and while descending we spotted lots of windows. On the bottom we cut the rope, leave the rest there and started surveying on way out. Rick went up first and it took him a while to get the rope free. Finally I went up and soon realized what took Rick so long. When we were bolting we were not paying attention on how low the bolts are. Now the only way to go off the rope was to undo your croll and step into the Y hang and somehow throw yourself into the pitch head squeeze. Overall, a very enjoyable caving journey with Rick. 
+Once in the bivy, we entered the data into the Surex and we realised we were very close to the bottom of Silos (M2).  
+
+\attrib{Iztok 'Izi' Mo\uzir}
             
 ## Alex Pitcher Memorial Award Report
 
