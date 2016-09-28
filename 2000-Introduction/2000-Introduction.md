@@ -7,7 +7,7 @@ Looking back over the caving exploration between 2007 and 2012 it almost seems l
 Living it, it never seemed like this, rather a more confused and complicated picture, individuals actors without a script, pulling together in some vague direction but towards perhaps an achievable objective. 
 
 
-If exploration were a rational expenditure of efforts towards a known end, the scenes would be rather more simple to describe - we realised how close we were to the connection of Vrtnarija and Kavkna Jama (M2) after more carefully analysing the 2007 "Kill 'em All" survey data. 
+If exploration were a rational expenditure of efforts towards a known end, the scenes would be rather more simple to describe - we realised how close we were to the connection of *Vrtnarija* and *Kavkna Jama (M2)* after more carefully analysing the 2007 *Kill 'em All* survey data. 
 To pursue this, we rebolted and rerigged Kavkna Jama in 2008, while exploring on the other side in Vrtnarija. 
 In 2009 we established a camp in Vrtnarija at the nearest suitable point to the closest approach, and used it to massively increase our time at the pushing front. 
 In 2010, 2011 and 2012 we camped deeper in Vrtnarija, while pushing Kavkna Jama from the surface both during the Summer and on Autumn / Winter trips. 

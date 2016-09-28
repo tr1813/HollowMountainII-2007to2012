@@ -1,15 +1,18 @@
 \documentclass[a4paper,nols]{tufte-book}
 
-\author{Imperial College Caving Club}
-\title{THE HOLLOW MOUNTAIN II \\
-- Draft on \today}
-\publisher{Explorations in Tolminski Migovec 2007--2012}
-
 %Author Attributes; flushed right, smaller size
 \newcommand{\attrib}[1]{%
 \vskip2ex\nopagebreak{\raggedleft\footnotesize #1\par}}
 
+% Redefine emph as small caps, for cave names with *Simple Markdown*
+\renewcommand{\emph}[1]{\textsc{#1}}
+
 \usepackage{graphicx}
+
+\author{Imperial College Caving Club}
+\title{THE HOLLOW MOUNTAIN II \\
+- Draft on \today}
+\publisher{Explorations in Tolminski Migovec 2007--2012}
 
 \begin{document}
 \setcounter{tocdepth}{10}
