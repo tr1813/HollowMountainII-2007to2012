@@ -288,6 +288,45 @@ I couldn’t wait to go back!
 
 \attrib{Clare Tan}
 
+### Stuck in Paradise
+
+It is always nice going caving with Jana. Good mood, good stories, good food and good zganje, what else do you need? ☺ So, as soon as we had a slot for going to the underground camp, we made use of it. The only question was: where to go? The first day we checked out some possibilities close to camp, but none of them seemed to be super exciting. 
+
+At camp we had a jolly time: Clare and Tetley were with us on the day train, while Jarv and Dan pushed on the night train. Tetley and Clare pushed Amazing Grace to Magic Dragon, and they were very excited by what may lay ahead. So Jarv and Dan went to check that out. 
+
+In the morning, good news arrived with Jarv and Dan! A large pitch waiting for us, said Jarv, very welcoming, exciting, and… muddy. So muddy that they had no idea even about how to start rigging it, plus they ran out of time too, so it is waiting for us! Well well, of course we like challenges, and challenges like us too, so why not going there?
+By then, the horizontal developments became very long, with several km of passages. To get to the pitch, we needed about 2 hours of caving from Camp X-Ray. It was very nice to go there, to put together the little pieces of information puzzles from the various teams, who all had their share of exploration. It really was a team effort, and it really was a victorious effort to find so many new places in this underground chasm. So, we proceeded and thought along these lines, occasionally fighting with super uncomfortable ropes, other times with super tight squeezes, but yet, in general, being inspired by the cave – such a complex system!
+
+And then there we were. Up until about 50 m’s before the pitch, it is a nice, dry, sandy passage – and then, this sea of mud appears beneath your feet! We found the last PSS, had a look down, and then faced the same problem that our forerunners – how to start??
+
+We thought that the wall on the left hand side seemed somewhat better, so after a complex effort involving countless slips down, we managed to get up there. The rock was quite OK, as soon as I removed the cca. 20 cm of wet, sticky, disgusting mud covering it. So I started to bolt down, and to build a nice rigging line – the only bad thing being that nobody can actually see that it is a nice line, because everything was covered in so much mud. We were quite amazed when at the bottom, we looked at each other – all our SRT kit, tackle sacks, oversuits, and even our faces, were basically just a big lump of mud. Well well, it is a good idea to name the place… Stuck in mud? But the name of the expo was about Paradise, so why not call it Stuck in Paradise? Bingo! And thus, the name of one of the muddiest pitches within the mountain was born!
+
+At the bottom of the first chamber, we reached a rock bridge. Left or right? We decided to check out the chamber on the left. We climbed up a water inlet, which closed up at the top, and checked every possibility – concluding that indeed, the continuation is to the right. By that time, we were running late, so we decided to leave the next part of funny muddy rigging to another group (which happened to be Izi and me), and surveyed back the pitch. We returned to camp a lot richer – rich with experiences, and even more rich with the amount of mud that covered us! To top things off, the next day we went to do an easy pushing project close to camp, that we named Lower Pleasures. It was a muddy dig, where we fought with one boulder for about 3 hours – of course, at the end we won! Behind the rock, another muddy pitch opened… but this waited for someone else. So, another nice trip, and a project to be continued!
+
+\attrib{Gergely Ambrus}
+
+### How to loose miles
+
+So, there was Stuck in Paradise, left at the middle, and however hard we tried to advertise it with Jana, nobody seemed to be quite keen to go there and reach the kilometres of horizontal passages at the bottom. Since it has been another example of truly Eastern European cooperation, we decided to give it a go with Izi. I am always ashamed when caving with him: he perfects minimalism, while I always tend to pack too much of everything. This was not different this time either, and he looked amazed, and in disbelief, at the amount of food I had prepared for taking underground. So I discarded half of it, making sure that the smoked meat, bacon and onion was making its way down to underground camp – it is so lovely to have a nice soup at camp full of meat and fresh onion!
+
+On our first day, we went to climb in Queen’s Bedchamber, starting a long-term project. Then, the second day came our big task – to continue Stuck in Paradise. 
+
+We packed two batteries for the drill, plenty of rope, also a good amount of food, so once again, we felt like being mules when reaching the southern end of the cave. Nevertheless, we made good progress, and soon I was on the rope again, continuing the rigging. 
+
+There was no surprise: mud and mud, but this time even spiced up with a number of falling rocks. Hmm, what a nice combination! I tried to lead the rope out of the fall-zone with more or less success. Meanwhile, poor Izi was getting very cold at the rock bridge. Finally, the battery died, so at last he had a chance to move. We joined our efforts to finish the bolting, at the bottom of the pitch there was yet one more little drop to do. Finally, we cut the rope, and started to see what lay in front of us – a horizontal phreatic gallery!
+
+So, we started to proceed, with Izi’s goal: to break the record of the longest new passage in one day! Luckily, the cave seemed to be up to the challenge: the tube went and went and went. We noted a passage on the left, but continued first with the obvious gallery ahead. We found some nice crystal-covered part, but apart from that, it was clear that nothing serious happened to this ancient, old cave. It was in the same pristine condition, as when the water left it, God knows when. It really felt to be the most ancient part of the cave to me, very deep and far from the entrance, completely untouched for millennia. So we went and went, finally reaching a boulder choke. It cannot finish here! The only tool we had with us was a bolting hammer, but nevertheless, we started to work on it. At the beginning, it seemed completely blocked, but then little by little, we gained more and more space between the boulders. It was a nice puzzle, try to see where we might break through. Finally, we were almost at the other side! However, the last rocks proved to be too big for our bolting hammer, and we had to give up the work, knowing that with a chisel it would take maybe half an hour to brake trough (which indeed proved to be the case the next year). So, we started to survey back – we really liked to test the range of the Disto ☺ Then, when reaching the junction, we had a look in the other passage. There was a lot of draught here! Unfortunately, this proved to be much smaller than the first tube, and the floor was filled with super uncomfortable little stones. But, it contained the first real stalactites that I saw at Mig!! We decided to named it Knee-killer, and the first passage East links (because we thought it was mainly going to east, rather then south). Looking back at the names, it is obvious that we were not at the height of our mental abilities! It has been a long trip, maybe we were at the 16th our then. 
+
+So, we were glad to find so much, but now we had to get back to camp! It took ages prussiking up in Stuck in Paradise for the first time, really a nightmare. And after, numerous little squeezes, ropes, traverses, to be topped by the ever fine experience of Cheetah – so, we were really exhausted when reaching the camp. 
+
+There was Tetley and Clare, and we started to tell him the news of another Great Discovery! Our 40-m survey legs, the going leads, the big pit… all the great story! So, it was time to count the number of meters we found that day – Tetley asked to see the survey book of course. “You have it Izi”- I said. “No, it is in your pocket” – came the answer. “Maybe it is in the Daren drum?” – “Or with the bolting kit?” –“Or…” – “Oh, F*ck!” –“Oh, SH*te!”… Yes, indeed, it is true. We left it there. We could only hope that it was at the top of the pit, where we had a ciggy break, and not at the bottom. 
+
+So, the next morning, we had to go back, completely broken, again to that marvelous place. Luckily, we found the survey book waiting for us on the rock at the top of Stuck in P. Good lord! So, we found our lost miles again. And, right away, we also decided to replace our crappy names by Lost Miles, and Penitence!
+
+Did we manage to brake the record? I don’t quite know… But it is not important at all. We found a lot of passage (about 600 m), and the mountain once again opened up a completely new part of the system. A part, that later proved to be very interesting, fascinating, and scary…
+
+\attrib{Gergely Ambrus}
+
 ### Dream 2 and Penguins Egg
 
 
