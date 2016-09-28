@@ -23,7 +23,7 @@ regularly + provide an informative commit statement, such as:-
 But do be careful on the command line with git, particularly if it's not
 wanting to merge. You can delete history.
 
-## Formatting
+# Formatting
 
 ### Author attribution
 
@@ -33,6 +33,15 @@ i.e.
 ```
 \attrib{Jarvist Moore Frost}
 ```
+
+### Cave names
+
+Encase cave names as `*Cave Name*` capitalised correctly, and it will be rendered in SMALLCAPS. 
+[ Tech note: This is overriding the built-in 'emphasis' (itallic) in markdown, via a redeclaration of the TeX Macro in the header.]
+
+### Unusual personal names
+
+`\izi` is a macro which will expand to Izi's full name with correctly rendered Caron on top of Z.
 
 ### Footnotes
 
@@ -60,7 +69,7 @@ along with the media (i.e. pictures) used within those chapters. The file
 format is Markdown. This is compiled to Latex with Pandoc, and is then rendered
 with Xelatex.
 
-'compile_pandoc.sh' first produces the TeX file with all the content
+The Makefile first produces the TeX file with all the content
 ('HollowMountainII-2007to2012_content.tex') which is then combined with the
 style/header file ('HollowMountainII-2007to2012.tex') to produce a PDF.
 Currently we are rendering with the 'tufte-book' class to get a fairly
