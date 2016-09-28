@@ -15,11 +15,11 @@ Combined these would now be 11493m + 5229m = 16722m = 2nd longest in Slovenia
 
 ### Plop Goes!
 
-Andy and Rik pushed Plop (the tight squeeze) onto the magnificent Plopzilla pitch. 
+Andy and Rik pushed *Plop* (the tight squeeze) onto the magnificent Plopzilla pitch. 
 A field of helictites festoon the pitch down onto an enormous boulder pile. 
 One side of this chamber is unpushed, the other leads to a boulder choke, as yet unpushed. 
-Plopzilla is 105m deep, penetrating from NCB to below Exhibition road. 
-This makes it the second largest pitch in the system after Silos.
+*Plopzilla* is 105m deep, penetrating from *NCB* to below *Exhibition road*. 
+This makes it the second largest pitch in the system after *Silos*.
 
 ### M1 & M6
 
@@ -29,19 +29,19 @@ Small extensions found in M6 - very pretty little bit of stream formed new cave,
 
 New caves on western edge of plateau
 
-"Planika" (named after the Edelweiss present on the wester plateau)and "Monatip", found below B9/M21 (on the western edge of the plateau, approx 100m north of Primadona) and the initial pushing trips conducted.
+*Planika* (named after the Edelweiss present on the wester plateau)and "Monatip", found below B9/M21 (on the western edge of the plateau, approx 100m north of *Primadona*) and the initial pushing trips conducted.
 
-'''Planika:''' 166m long, 46m deep
-'''Monatip:''' 196m long, 28m deep
+*Planika:* 166m long, 46m deep
+*Monatip:* 196m long, 28m deep
 
-'''Planika''' is a high entrance (1801m) which leads directly to a 40m pitch to a snow plug. 
+*Planika* is a high entrance (1801m) which leads directly to a 40m pitch to a snow plug. 
 Climbing the snow gains another chamber with a large entrance, and a rift leading off. 
 A very tight pitch head at the end of rift leads to a 5m pitch which reconnects to a 20m long snow slope. 
 Digging at the bottom of this snow slope gained another snow filled chamber, with 'phreatic' esque passage etched through the snow by the draught, and extremely drippy snow which I believe is certainly feeding a faithful stream, possibly the one that was found on Smer0 in Primadona, 200m below. 
 To get to Planika, one must conduct a 30m abseil down a cliff, then traverse along the ledge. 
 Extremely pretty - one gets a view across the whole of the Tolminka by day, or the lights of Italy all the way to Venice by night.
 
-'''Monatip''' is directly below Planika (24m between bottom of snow plug and early passage), and has a very NCB-like character - possibly a dried river bed. 
+*Monatip* is directly below Planika (24m between bottom of snow plug and early passage), and has a very NCB-like character - possibly a dried river bed. 
 It undulates along, heading into blank mountain
 
 ### U-Bend connected to Primadona
@@ -96,12 +96,12 @@ I think that all the lags can feel extremely proud of the enormous cannon of inf
 
 ## Ping Pong Ball Bombe
 
-A Slovene super-action was in the making, the shepherd's huts stocked with drink and the young JSPDT bouncing down to -200m in Prima Dona to improve the rigging. 
+A Slovene super-action was in the making, the Shepherd's huts stocked with drink and the young JSPDT bouncing down to -200m in Prima Dona to improve the rigging. 
 The plan was to (mainly) investigate leads off Smer0/Smer1 in Primadona where on a JSPDT trip in Autumn 2006 (joined by Tetley & Jarv from IC) a large rift with an approx 40m pitch was found - most tellingly, with water visible at the bottom. 
 Finding a constant stream this shallow in Mig was unheard of. 
-Meanwhile, a smaller team would head to Bikini Carwash at the end of Exhibition Road in the main system and aid climb to see if the passage continued.
+Meanwhile, a smaller team would head to *Bikini Carwash* at the end of Exhibition Road in the main system and aid climb to see if the passage continued.
 
-The more curious aspect of this mission was the Ping Pong Ball Bombe, a plan to take ping pong balls down Primadona & set fire to them. 
+The more curious aspect of this mission was the Ping Pong Ball Bombe, a plan to take ping pong balls down *Primadona* & set fire to them. 
 The noxious smell hopefully providing a connection. 
 Alas, the SysMig team that was to detect with their noses, also contained the most hardened smokers who spent their time sniffing the air in between dragging on filterless roll ups!
 
