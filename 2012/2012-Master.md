@@ -537,6 +537,26 @@ Still, we live and learn, and ´Ah, but a man's reach should exceed his grasp, o
 
 \attrib{Jarvist Moore Frost}
 
+## Cutting your neck at the Guillotine
+
+It is always a long time that passes between two expeditions. A time for living the normal life, doing the work, caving a lot, fixing or purchasing new gear, and -- making plans for the next year. 
+
+As there had been so much known in the -600 phreatic level, it became reasonable to hope that there might be a connection between Sys Mig and Gardener’s World at this depth. The efforts for finding the connection at -400 had been failing for years, despite the plenty of action and enormous energy that went into this action. Meanwhile, large amounts of passages had been found at -600 with much less effort, and sometimes they went as far as 500 m on a trip. Therefore, it was not insane to look for the connection here. 
+
+But where could it be? Although Vrtnarija had now several kilometres of passages at this level, the System only intersected it. Back in the years the primary goal was to reach the -1000 m barrier, and it was evident looking at survey – there were almost no horizontal sections that had been found at the section below 400 meters. There was only one place on the survey which resembled something like Friendship Gallery: the area around Elephant and Waterloo, not far from Hotel Tolminka. To make things even more complicated, these could not be reached without changing the ropes, and we did not have the manpower and the gear for doing so. Therefore, if one wanted to find a connection leading here from Vrtnarija, it must had been done from that side. Given the dimensions of the cave, this was nothing else but finding a needle in the haystack.
+
+Looking at the plan of the cave, one could notice that the Minotaur rift was heading more or less towards Elephant, in about the same level. The horizontal distance between these two was about 250 m, which is not so much considering the potential in the phreatic level. Moreover, the Minotaur rift is a huge, very well defined fault line, which had a strong potential for continuation at both ends. (This fault can also be found at the -800 level). So, let’s have a look at the passage towards  the System!
+
+After the great pushing day with Kate, Clare and Rhys and finding Atlantis, the next day we decided to come here with Rhys. At the end of the Minotaur rift, just where the crystals appear and the passage turns towards the right, it is possible to continue along the fault line in a small passage. We only had to continue this line, and it was a straightforward task to do. This has already been pushed to a boulder choke by James KP. There was only one minor problem: the fault line itself! Because of obvious reasons, the rock there is extremely broken and loose. So, on one hand, we had to move a lot of rocks in order to make progress. On the other hand, we were never quite sure whether the ceiling is going to collapse on us or not.
+
+There is one point in the passage, where you have to squeeze down on the left hand side. We managed to move quite a number of rocks, but one large one remained there, and one had to squeeze underneath it. When I finally attempted to pass under this rock blade, of course it moved… but luckily, by not so much. Since there was no space for putting the rock anywhere else, we tried to stack smaller rocks underneath in order to keep it up. Still, when you climbed, your head was directly under it… good luck! So, the name of the passage became Guillotine!
+
+Eventually, after long hours of battling with the rocks, we managed to emerge in an open space: the fault line opened up again! We found ourselves at the top of a ~30m high rift, which is an active streamway, with beautiful white walls! In the squeeze, we found hematite pebbles and sometimes along the fault line, the rock looks like marble, which would be very nice apart from the fact that it constantly falls on your head. Crawling out from Guillotine is even harder than going in, since the whole passage is sloping downwards. Moreover, as you crawl, all your oversuit  becomes packed with sharp little rocks, while other rocks constantly fall on your head. A truly fascinating place! Still, the continuation was at the bottom of a large, open rift – sounds quite good…
+
+Later, we returned with Jana to rig the rift at the end, and to survey the passage. The end of the rift needed some bolt climbing, but we could hear that it continues in a large volume. Moreover, to our surprise, the passage went more than a 100 meters in the direction of the System! Thus, the distance to the connection became less than 120 meters. It was planned that we will get back there to climb the following year. Thanks God, the events that followed later made this heroic attempt unnecessary (since Sanje za Duso crosses the continuation of the rift). Thus, probably nobody will ever enjoy the special treatment of Guillotine again – maybe since then, the large boulder already fell down, sealing the passage for eternity…
+
+\attrib{Gergely Ambrus}
+
 ## 2012 – Watership Up with Oli
 
 Oli hadn't yet been on the serious pushing trip he was clearly capable of. 
