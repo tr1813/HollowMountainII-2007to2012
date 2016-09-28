@@ -296,7 +296,7 @@ At the bottom we started checking out the leads and soon one was dead. Only one 
 
 Once in the bivy, we were given a well deserved dinner and Jarv was already on the mission to enter the data. The bottom of Dark Tranquillity goes towards lower parts of Vrtnarija – towards Friendship Gallery and it is already to low to connect to M2. 
 
-\attrib{Iztok 'Izi' Mo\uzir}
+\attrib{\izi}
 
 ## Raw Logbook Writeups
 

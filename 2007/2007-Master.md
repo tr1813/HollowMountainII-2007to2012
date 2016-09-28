@@ -356,7 +356,7 @@ It was my first year on Mig and I was very excited to go caving and join the ICC
 
 On the way out Tetley was rushing us to get out (we were leading the way to memorise the cave), as he did not want to miss the call out. At that time we did not know what a call out was and so we speeded up. On the end I was really tired, but it was worth it. 
 
-\attrib{Iztok 'Izi' Mo\uzir}
+\attrib{\izi}
  
 ## Bolting “Kill Em All”
 
@@ -367,7 +367,7 @@ This was my first time in Vrtnarija and at the beginning was nothing to serious,
 Once through, we free climbed couple of small pitches and arrived to a small chamber. The way on was through a squeeze witch led to a top of the pitch. It was very little space here, not even enough to do the bolting properly. After couple of minutes of thinking and couple of cigarettes we had a plan. One of us would go on the rope, while the other one will attach the rope to his croll, get stuck in the squeeze and hold the other one until bolting finished. Rick was brave enough to trust me, so he did the bolting. During the bolting I smoked a lot and we chatted about the music. We both knew the first Metallica album and so we decide to name this pitch “Kill Em All”. The way down was no problem and while descending we spotted lots of windows. On the bottom we cut the rope, leave the rest there and started surveying on way out. Rick went up first and it took him a while to get the rope free. Finally I went up and soon realized what took Rick so long. When we were bolting we were not paying attention on how low the bolts are. Now the only way to go off the rope was to undo your croll and step into the Y hang and somehow throw yourself into the pitch head squeeze. Overall, a very enjoyable caving journey with Rick. 
 Once in the bivy, we entered the data into the Surex and we realised we were very close to the bottom of Silos (M2).  
 
-\attrib{Iztok 'Izi' Mo\uzir}
+\attrib{\izi}
             
 ## Alex Pitcher Memorial Award Report
 

@@ -552,7 +552,7 @@ Kletnik and I decided to go camping. We started at 9pm and arrived to camp reall
 
 Once awake, we quickly ate and pack and were on the way to Serpentine. Here we climbed up for about 4 m and the passage above led to about 26 m pitch. We bolted and start going down. Half way down was a big rubbing point so we made a rebelay. At the bottom there was a bolder choke and we tried to find a way through. After some hard work, I finally managed to squeeze through. Kletnik, being bigger than me, could not follow me. We tried to make the squeeze bigger, but with no success. On my own I continued to explore. But after 20 m, I was stopped by another tight space. With a bit of digging, it was passable. I returned back to Kletnik and explained the situation. He was keen to come back and do some digging. We surveyed on they way back and named the passage Let na Drugi Svet. Back in bed, Kletnik could not sleep. He was treating his insomnia with watching lots of Popaj.
 
-\attrib{Iztok 'Izi' Mozir}
+\attrib{\izi}
 
 ## Bolt climbing in Queen's bed Chamber
 
@@ -562,7 +562,7 @@ Once in a camp we packed all necessary for bolt climbing. When we arrived, I sai
 
 Back to the camp, while eating we were making plans for the next day.
 
-\attrib{Iztok 'Izi' Mozir}
+\attrib{\izi}
 
 ## The continuation of Stuck in Paradise
 
@@ -570,7 +570,7 @@ We started going towards Stuck in paradise to push this pitch that Jana and Gerg
 
 After a good sleep, we were woken by Tetley and Clare. On the way down to the camp, they meet the other team, who told them what we found. Soon as Tetley saw us, he wanted to see our survey book. I was carrying it in my tackle bag, but when I wanted to show it to Tetley, I couldn’t find it. We start to panic for a bit and then I realized that it probably fell out when we stop for smoke in Magic dragon. We rushed back there and with huge relieve we found it. Back in the camp, I showed the survey book to Tetley. He immediately started to count the meters and then smiled to me and said: » Again you found more than 500 m, you are lucky because the right peoples are choosing you”. I replied: “This is not luck, I only take the right peoples with me or they take me”.  After that was time to return to the surface for tea and medals ;).
 
-\attrib{Iztok 'Izi' Mozir}
+\attrib{\izi}
 
 ## Winter Journey
 

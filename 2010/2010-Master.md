@@ -510,7 +510,7 @@ Dan and I decided to go camping in X-ray, which was after re-established after m
 
 We were on the night train. So the plan was to go caving late at night, reach the camp in the morning and then go straight to bed. When we reached the camp we find a note, asking if we could wait a bit longer, because the other team return late. We decided to go and check out the newly discovered parts and maybe find some leads for tomorrow. When we return to X-ray we meet our tent mates Gergely and Niko, who just return from their caving trip. We prepared some food, change to dry clothes and went into sleeping bags, while others started preparing for caving. It was funny to watch how they were not happy to put on wet caving clothes.
 
-\attrib{Iztok 'Izi' Mozir}
+\attrib{\izi}
 
 ## Palace of king Minos, Queen Bed chamber, Minotaur rift and Ouroboros
 
@@ -518,7 +518,7 @@ We were woken up by Jarv and Jan who just return from their pushing trip. While 
 
 When we woke up, we were surprised by roaring in Zimmer. During the day it was raining outside, therefore a lot of water was purring down Zimmer. Dan and I still have one more night at a camp, but because Niko and Gergely were not feeling to go out in these conditions, we volunteered to do it. Beside, someone had to cancel their call out. So we eat something and start going up to the surface. I was first heading out, but before I fully attached myself on the rope in Zimmer, I was already all wet. I told Dan that I will not wait for him and because we both know the way out, we will see each other on the surface. I was going for about an hour, stopped, roll 2 cigarettes, smoke one, and leave one for Dan and then continue out. Below Pico, I repeated the same procedure, so at that time Dan catches me up and we continued together. Above Pico it was less water so that meant that the rain has stop. We reached the surface in 3 and half hours. In the bivy we entered the data and we were so happy when we heard that we surveyed more than 500 m, especially how easy was to do it.
 
-\attrib{Iztok 'Izi' Mozir}
+\attrib{\izi}
 
 ## Discovering Povodni Mož
 
@@ -526,7 +526,7 @@ After couple of days on the surface, I decided to do some camping with my Sloven
 
 The next day we made a plan to push one lead in Palace of King Minos, that we didn’t push with Dan. The entrance was quite narrow, but soon we arrived to a series of pitches with water. We had enough of rope to bolt 2 pitches and decided to name it Povodni mož, cuz we followed the water all the time.
 
-\attrib{Iztok 'Izi' Mozir}
+\attrib{\izi}
 
 ## M2 --- Kavkna Jama
 

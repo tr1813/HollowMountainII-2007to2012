@@ -239,7 +239,7 @@ We were all out in time for a traditional sunset gathering, which is truly unfor
 
 The next day Tetley suggested doing the same through trip (M16-M2) and at the same time check out one pitch in NCB.  We liked the plan. The leaders were Karin and Tjaša followed by myself, Erik and Thara. We all knew the way till Titanic, but none of us was in NCB gallery before. We saw 3 pitches but were unsure as to which pitch we need to check out. We went all the way till the end of the gallery and on the way back decided to check out the middle pitch. We bolted and Thara went down first to check it out. He came back up quickly with the news that there is no way on. At this point we decided best to carry on with our loop trip. We were at Silos now and Tjaša went first down. There is a big traverse connecting M16 with Silos. I somehow managed to get stuck on it. After 20 min of struggling I managed to get free. After that M2 - there was quite a lot of nasty meanders to go through. After 8 hours we were finally out.  Back in the bivy we were laughing which pitch we should check it out...   
 
-\attrib{Iztok 'Izi' Mozir}
+\attrib{\izi}
 
 ##Climbing PRIMULA
 
@@ -247,19 +247,19 @@ James KP and I decided to go camping to Metal Camp. I was really excited to retu
 
 At the first rebelay in “Kill Em All” pitch, you take the rope up which leads through meander and then there is a pitch. We descended to the first ledge, not far down. Here we wanted to make a traverse to the bolder choke. First we try it with a drill, but it didn’t work. Secondly we try hand bolted it. But because the rock was so bad, we on the end decided to put a couple of slings around some naturals, to secure James for the climb. When he reached the bolder choke he quickly put in one bolt, as he did not trust the boulders above him. After couple of hours trying to climb through, we then gave up and returned to camp. There James prepared some food. Don't ask me what we eat, as far as I remember he boiled some water and then throw in whatever he could find.  
 
-\attrib{Iztok 'Izi' Mozir}
+\attrib{\izi}
 
 ##Climbing Metal aven
 
 When we woke up we felt a bit lazy, so we were wondering what to do; go out or push a bit more. A plan was made to climb here, directly above the tent. First 20 m I manage to free climb it; in the meanwhile James went for the rope. When he returned, he throws me the rope and I secured it around a big boulder. After that he came up and joined me. The last 10 m was James's turn to climb. Again we secured the rope with couple of slings around some naturals in case of a fall and James made it to the top. There he put in some bolts. On the top there was a tunnel, which we crolled for a while, but then decided it is time to go back and survey. We named this climb Metal aven. After entering data into the Survex, we discovered that looks like the tunnel is leading to Danger Mouse pitch, which is just before the camp.
 
-\attrib{Iztok 'Izi' Mozir}
+\attrib{\izi}
 
 ##Climbing  K.E.T.I.
 
 The climb in Primula did not give me a peace and I really wanted to do it. I convinced Erik, Tjaša and Karin. For them this was the first time down Captain and I was explaining the stories from previous years. We quickly arrived to traverse that James and I were trying to do. First I tried to go through the bolder choke, and then I send Erik to give it a go. We decided it is too risky and instead did a climb up to a window before the choke to bypass it. It was about 4 m to this window and we could see a rocky spike so we tried to catch it with a lasso. After a few attempts we made it and Erik went up first and secures the rope properly. I followed up and after few meters upwards we realised, it will not bypass the choke but we were curious where it leads. We were stopped by a very tight squeeze, as none of us could fit through. But we could see a big chamber through. We decided to throw a note with the name K.E.T.I. written on it, so if anyone will arrive to this chamber they will know that Primula is on the other side. At this point we heard the voices and started shouting. It was Thara and Tim. We asked them, if they can see the note and where exactly are they. After laughing, they said they are in Metal camp. That tells us, that there is another way to Primula withought going through “Kill Em All” pitch. We surveyed back to Primula.  
 
-\attrib{Iztok 'Izi' Mozir}
+\attrib{\izi}
 
 ##Climbing RIDE THE LIGHTNING
 
@@ -269,7 +269,7 @@ In the middle of the “Kill Em All “pitch Jarv made a traverse to a ledge. He
 
 I decided to try the climb first. I attached the rope to myself and started climbing. Meanwhile Erik was connected to that rope in case I would fell on the ledge but miss it and start falling down the pitch. On the top I bolted and use a natural for a backup. From here I could see a pitch and others came up as well. We did not have enough rope to reach the bottom so we left it undescended. We named this climb Ride the Lightning.  
 
-\attrib{Iztok 'Izi' Mozir}
+\attrib{\izi}
 
 ## Outlook for 2010
 
