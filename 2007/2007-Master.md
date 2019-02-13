@@ -2,20 +2,20 @@
 
 ## Introduction
 
-Absolutely stonking year, very lucky with the weather, lots of interesting developments. 
-No accidents, no missed call outs and generally a very smoothly run, pleasant and safe expedition
+2007 was an absolutely stonking year; beyond being very lucky with the weather, the expedition saw lots of interesting developments. 
+It was a generally very smoothly run, pleasant and safe expedition.
 
-Gardeners' World, Captain Kangaroo, pushed to within 28m of the lower M2 1980s JSPDT survey. 
-There is a possibility that we are unknowingly connected (Slovs did not use PSSs in the 1970s except for a red paint splodge at the bottom of Silos), and a probability that a connection exists. 
-This will be a major target for 2008, with the possibility mooted of rigging down M2.
+The *Captain Kangaroo* branch of *Vrtnarija* was pushed to within 28m of the lower *M2* 1980s JSPDT survey. 
+There is therefore a possibility that we are unknowingly connected, as the Slovnenians did not use Permanent Survey Stations (PSSs) in the 1970s except for a red paint splodge at the bottom of *Silos*), and a probability that a connection exists. 
+This connection will be a major target for 2008. In order to accomplish this, plans for rigging down *M2* were mooted.
 
-Combined these would now be 11493m + 5229m = 16722m = 2nd longest in Slovenia
+Combined the two caves would now total 11493 m (*Sistem Migovec*) + 5229 m (*Vrtnarija*) = 16722 m = 2nd longest in Slovenia.
 
 ## Expedition Findings
 
 ### Plop Goes!
 
-Andy and Rik pushed *Plop* (the tight squeeze) onto the magnificent Plopzilla pitch. 
+Andy and Rik pushed *Plop* (the tight squeeze) onto the magnificent *Plopzilla* pitch. 
 A field of helictites festoon the pitch down onto an enormous boulder pile. 
 One side of this chamber is unpushed, the other leads to a boulder choke, as yet unpushed. 
 *Plopzilla* is 105m deep, penetrating from *NCB* to below *Exhibition road*. 
@@ -29,15 +29,15 @@ Small extensions found in M6 - very pretty little bit of stream formed new cave,
 
 New caves on western edge of plateau
 
-*Planika* (named after the Edelweiss present on the wester plateau)and "Monatip", found below B9/M21 (on the western edge of the plateau, approx 100m north of *Primadona*) and the initial pushing trips conducted.
+*Planika* (named after the Edelweiss present on the western Migovec plateau)and *Monatip*, found below *B9*/*M21* (on the western edge of the plateau, approx 100 m north of *Primadona*) and the initial pushing trips conducted.
 
 *Planika:* 166m long, 46m deep
 *Monatip:* 196m long, 28m deep
 
-*Planika* is a high entrance (1801m) which leads directly to a 40m pitch to a snow plug. 
+*Planika* is a high entrance (1801 m) which leads directly to a 40 m pitch to a snow plug. 
 Climbing the snow gains another chamber with a large entrance, and a rift leading off. 
 A very tight pitch head at the end of rift leads to a 5m pitch which reconnects to a 20m long snow slope. 
-Digging at the bottom of this snow slope gained another snow filled chamber, with 'phreatic' esque passage etched through the snow by the draught, and extremely drippy snow which I believe is certainly feeding a faithful stream, possibly the one that was found on Smer0 in Primadona, 200m below. 
+Digging at the bottom of this snow slope gained another snow filled chamber, with 'phreatic' esque passage etched through the snow by the draught, and extremely drippy snow which I believe is certainly feeding a faithful stream, possibly the one that was found on Smer0 in *Primadona*, 200 m below. 
 To get to Planika, one must conduct a 30m abseil down a cliff, then traverse along the ledge. 
 Extremely pretty - one gets a view across the whole of the Tolminka by day, or the lights of Italy all the way to Venice by night.
 
@@ -46,43 +46,43 @@ It undulates along, heading into blank mountain
 
 ### U-Bend connected to Primadona
 
-Hard pushing by Sandeep and Alvin through the previously blown Enigma squeeze on the 40m U-bend pitch has led to a connection with the Druigi entrance to Primadona, gaining Prima an additional 57m of height, making a cave 644m deep. 
+Hard pushing by Sandeep and Alvin through the previously blown *Enigma* squeeze on the 40 m *U-bend* pitch has led to a connection with the Drugi (second) entrance to *Primadona*, gaining the cave an additional 57 m of height, making a cave 644 m deep. 
 Beautiful survey accuracy - have a look on the .3d file!
 
 ### Razor cave survey
 
-Coordinated by Martin, we've started to survey Razor cave. 
-250m already in the book, its a very interesting clearly fault-driven cave, with easy access from the Razor hut.
+Coordinated by Martin, we've started to survey *Razor* cave. 
+250 m already in the book, its a very interesting clearly fault-driven cave, with easy access from the Razor hut.
 
 ### Primadona Smer0 pitch
 
-Initial rigging of the Smer0 pitch discovered in October 2006 was undertaken, bolting down to ~-40m. 
+Initial rigging of the *Smer0 pitch* discovered in October 2006 was undertaken, bolting down to ~-40 m. 
 Pitch is ongoing. 
-Stream was followed upstream to a tight labyrinth.
+Stream was followed upstream to a tight labyrinth. \marginnote{This was pushed during the Ping Pong Ball Bombe action.}
 
 ### Smashed Swede
 
-Stefan's climb was bolt-traversed to by Rik + Paul, gaining a window that would appear to reconnect to Hardy Pitch. 
+Stefan's climb was bolt-traversed to by Rik + Paul, gaining a window that would appear to reconnect to *Hardy* pitch. 
 A second look wouldn't go amiss.
 
 ## Minor Caves
 ### East Pole (S1)
 
-Further work was undertaken in East Pole: a number of promising new holes were investigated, including E1 - at ~25m deep pitch leading to too-tight windows that require opening up.
+Further work was undertaken in *East Pole*: a number of promising new holes were investigated, including *E1* - at ca. 25 m deep pitch leading to too-tight windows that require opening up.
 
 ### Stag Cave
 
-A cave was found within 20m of the tents! A short pitch, rigged on naturals, lead to a spacious chamber that was unfortunately dead. 
+*Stag Cave* was found within 20 m of the tents! A short pitch, rigged on naturals, lead to a spacious chamber that was unfortunately dead. 
 However the presence of a large collection of bones (some crushed, but many in very good condition) that appears to have been from a stag made up for the disappointment!
 
 ### Moth Cave
 
-Heroic effort was expended in the Moth Cave dig: two extra chambers were gained, but unfortunately only lead to yet another too-tight squeeze requiring rock removal. 
-Declared dead and derigged.
+Heroic effort was expended in the *Moth Cave* dig: two extra chambers were gained, but unfortunately only lead to yet another too-tight squeeze requiring rock removal. 
+The cave was declared dead and derigged.
 
 ### Hawk Cave
 
-New (safe) method of gaining the cave was constructed by bolting an abseil from the cliff-head. 
+A new (safe) method of gaining *Hawk Cave* was constructed by bolting an abseil from the cliff-head. 
 Most leads off chamber were found to die, a bolt traverse was made across the pitch to find an aven where we hoped a parallel shaft may lie. 
 Still to be revisited :- we ran out of time and rope, and so derigged.
 
@@ -90,52 +90,52 @@ Most of all, this expedition was an enormous training mission: we now have an ex
 
 I think that all the lags can feel extremely proud of the enormous cannon of information that has been passed on, the new members proud of the steep learning curve that they all conquered, and everyone proud of the Caves, little and big, deep and shallow that we've found this year.
 
-\attrib{Jarv}
+\attrib{Jarvist Frost}
 
 ##Log Book Write Ups
 
 ## Ping Pong Ball Bombe
 
-A Slovene super-action was in the making, the Shepherd's huts stocked with drink and the young JSPDT bouncing down to -200m in Prima Dona to improve the rigging. 
-The plan was to (mainly) investigate leads off Smer0/Smer1 in Primadona where on a JSPDT trip in Autumn 2006 (joined by Tetley & Jarv from IC) a large rift with an approx 40m pitch was found - most tellingly, with water visible at the bottom. 
-Finding a constant stream this shallow in Mig was unheard of. 
+A Slovene super-action was in the making, the Shepherd's huts stocked with drink and the young JSPDT bouncing down to -200 m in *Primadona* to improve the rigging. 
+The plan was to (mainly) investigate leads off *Smer0*/*Smer1* in *Primadona* where on a JSPDT trip in Autumn 2006 (joined by Tetley & Jarv from IC) a large rift with an approx 40 m pitch was found - most tellingly, with water visible at the bottom. 
+Finding a constant stream this shallow in *Sistem Migovec* was unheard of. 
 Meanwhile, a smaller team would head to *Bikini Carwash* at the end of Exhibition Road in the main system and aid climb to see if the passage continued.
 
-The more curious aspect of this mission was the Ping Pong Ball Bombe, a plan to take ping pong balls down *Primadona* & set fire to them. 
+The more curious aspect of this mission was the Ping Pong Ball Bombe, a plan to take ping pong balls down *Primadona* and set fire to them. 
 The noxious smell hopefully providing a connection. 
-Alas, the SysMig team that was to detect with their noses, also contained the most hardened smokers who spent their time sniffing the air in between dragging on filterless roll ups!
+Alas, the *Sistem Migovec* team that was to detect with their noses, also contained the most hardened smokers who spent their time sniffing the air in between dragging on filterless roll ups!
 
-With mammoth organisation, Rik and Jarv were dispatched down via text message from the Bivi to Kal, meeting the Slovs and stealing some bread before crabbing across sideways to Prima. 
-The boulder slope climb was awful as ever, but I took the opportunity to build a cairn on the edge of the cliff so that we could recognise this point from the plateau - to help unravel the mystery of the caves below B9 spotted by Jana & I from the plateau the Autumn before.
+With mammoth organisation, Rik and Jarv were dispatched down via text message from the Bivi to Kal, meeting the Slovs and stealing some bread before crabbing across sideways to *Primadona*. 
+The boulder slope climb was awful as ever, but I took the opportunity to build a cairn on the edge of the cliff so that we could recognise this point from the plateau - to help unravel the mystery of the caves below *B9* spotted by Jana & I from the plateau the autumn before.
 
 So we went down in a mammoth party: Rik, Jarv, Eric, Aliosha, Izzy, Silan, Zdenko & Emil
 
 Zdenko led off with the young JSPDT. 
 Emil was a new character to us - with a bald head framed by round lensed glasses and a fine handlebar moustache that dovetailed with his military demeanour, were it not for the Slovene language I could have easily assumed him to be an old-school English army Colonel. 
 Bringing up the rear with Emil, we were slowed by his enormous tackle sac, stuffed full of bread and cheese I could only assume. 
-About 150m in, standing on a traverse line above a pitch, I was handed a full mineral water bottle from the depths of this magic sack. 
+About 150 m in, standing on a traverse line above a pitch, I was handed a full mineral water bottle from the depths of this magic sack. 
 "What is it?" I asked. 
 "Mmm... 
 made with fruits... 
 and a kilo of Med (honey)... 
-its dobra!". 
+it's dobra!". 
 Ah, I thought, some marvellous mountain tea fortified with a shed load of honey - just perfect to give an energy boost and fight off the dehydration. 
 I chugged it back. 
 Tea it was not. 
-Double distilled Zjganja with a kilo of honey dissolved in it it was.
+Double distilled Žganje with a kilo of honey dissolved in it it was.
 
 Once at the pushing front we found we were rather limited with gear - just one bolt kit. 
-Rik set to work with Izzy to get down the pitch. 
-Zdenko and the Eric/Aliosha brotherhood set off for the end of Smer0 (passed where Smer1 reconnected to it) to look at the climb that currently ended the passage. 
-Jana, Emil & myself traversed over the pitch (which was a truly frightening undertaking - walls over a metre apart with a 40m drop down) and went to look at where the water which trickled down the opposite side came from. 
-From the pools of water we found a 2m climb into an old dry silted phreatic system leading left facing towards the end of Smer0, starting just before where Smer1 dropped down. 
+Rik set to work with \izi to get down the pitch. 
+Zdenko and the Eric/Alioša brotherhood set off for the end of *Smer0* (past where *Smer1* reconnected to it) to look at the climb that currently ended the passage. 
+Jana, Emil & myself traversed over the pitch (which was a truly frightening undertaking - walls over a metre apart with a 40 m drop down) and went to look at where the water which trickled down the opposite side came from. 
+From the pools of water we found a 2 m climb into an old dry silted phreatic system leading left facing towards the end of *Smer0*, starting just before where *Smer1* dropped down. 
 This branched to a small chamber with avens, a too tight rift (from which, insanely enough, emanated sounds of Rik bolting) and a chamber with a larger, aid climbable, aven. 
 Alas, with no spare rigging gear for the climb, and no survey instruments, there wasn't much more for us to do but go back to Rik.
 
-Rik & co had made it down about 20m to a ledge where he put in a rebelay bolt. 
-He reckoned he could see the floor a further 20m from there. 
+Rik & co had made it down about 20 m to a ledge where he put in a rebelay bolt. 
+He reckoned he could see the floor a further 20 m from there. 
 He was rather put off by the avalanche of rocks that came down when people went over the crazy free traverse. 
-The team that went to the end of Smer0 was already back, and getting cold waiting around with nothing to do we set off out in small groups. 
+The team that went to the end of *Smer0* was already back, and getting cold waiting around with nothing to do we set off out in small groups. 
 Rik finished the rebelay bolt and headed back up, as the guys he was with were getting cold.
 
 In the end we didn't burn the Ping Pong Bombes, as Prima appeared to be breathing 'out' in all the bits a draught was detectable.
@@ -144,50 +144,50 @@ As well as the spirits, Emil had another mineral water bottle filled with white 
 When he returned to the mountain hut well gone midnight he did not look particularly well. 
 One can only assume he burnt through his hangover on the pitches out!
 
-Primadona is I'm sure an absolutely amazing cave system, who's secrets have only been very partially unlocked. 
-Unfortunately I fear it will require a heroic effort to make easier access (possibly by reactivating the abseil route, or finding a better abseil way down via B9/Planika/Monatip) to allow the dozens of small trips necessary to properly relearn the cave system, recapturing the knowledge lost with the retirement from caving of the 'middle-aged' JSPDT who mainly explored Primadona.
+*Primadona* is I'm sure an absolutely amazing cave system, who's secrets have only been very partially unlocked. 
+Unfortunately I fear it will require a heroic effort to make easier access (possibly by reactivating the abseil route, or finding a better abseil way down via *B9*/*Planika*/*Monatip*) to allow the dozens of small trips necessary to properly relearn the cave system, recapturing the knowledge lost with the retirement from caving of the 'middle-aged' JSPDT who mainly explored *Primadona*.
 
 \attrib{Jarvist Frost}
 
 ## B9 & Beyond!
 
-Walking briefly over to B9 the day after the super-action, we could spot the cairn I left down near Primadona. 
+Walking briefly over to *B9* the day after the super-action, we could spot the cairn I left down near *Primadona*. 
 Combined with one placed by Jana & I on the headland near U-Bend, suddenly the whole complicated 3D structure fell into place. 
-Neither of the caves we could see from near B9 were Primadona, though the entrances looked similar - both were new caves in an area never visited!
+Neither of the caves we could see from near *B9* were *Primadona*, though the entrances looked similar - both were new caves in an area never visited!
 
 The next day we were joined on the plateau by some of the young JSPDT. 
-Jana & I went with Alijosha and Spela to B9, and explained the situation. 
+Jana & I went with Alioša and Spela to *B9*, and explained the situation. 
 The weather was awful - thick cloud everywhere. 
-While the Slovs re-explored bits of B9 and checked to see if anything had changed after the earthquake (a pitch had disappeared off the original survey as a bit of the cave collapsed and turned into a boulder climb!), I placed two bolts for the descent down the cliff. 
+While the Slovenians re-explored bits of *B9* and checked to see if anything had changed after the earthquake (a pitch had disappeared off the original survey as a bit of the cave collapsed and turned into a boulder climb!), I placed two bolts for the descent down the cliff. 
 This was really quite exhillerating - a gale swept over the edge of the plateau, the rock was soaked and slippery, and every now and then the thick clouds would part for a glimpse of Krn or the Tolminka valley a very long way away!
 
-The next day Aliosja and Spela went down from the plateau, so Jana and I went back alone to B9 to rig down the cliff. 
+The next day Alioša and Spela went down from the plateau, so Jana and I went back alone to *B9* to rig down the cliff. 
 The weather was much improved! Jana abseiled down first and went investigating the three cave entrances, while I came down behind and put in the rebelay bolts. 
 The three entrances were very interesting - the main one contained an enormous aven which connected back up to the headland above u-bend (you could see the sky through the top), but was an enormously steep boulder slope with useless rock. 
 The further entrance was a crawl in boulders that was only briefly pushed by Jana. 
 The smallest, highest entrance was the most immediately interesting - a perfect metre by metre triangular arch which led directly to a deep pitch. 
 A shimmer of white was just visible at the bottom. 
-Bolts were placed for a traverse along a beautiful slab of limestone to save freeclimb on the steep bowl valley edged with a cliff, and the main hang bolt + first rebelay was placed for the small-cave pitch, finishing our 100m rope. 
-We decided to name this new cave 'Planika Jama', after the rare mountain flower that covers the sunkissed (& adder infested!) slopes around B9.
+Bolts were placed for a traverse along a beautiful slab of limestone to save freeclimb on the steep bowl valley edged with a cliff, and the main hang bolt + first rebelay was placed for the small-cave pitch, finishing our 100 m rope. 
+We decided to name this new cave *Planika Jama* \marginnote{Slovene for \textit{Edelweiss}), after the rare mountain flower that covers the sunkissed (& adder infested!) slopes around *B9*.
 
 Rather confusingly, we could occasionally hear echo-y shouts bouncing around from below as we walked about the bowl valley, inevitably disturbing stones. 
 We tried to be as careful as we could, but couldn't really understand what was going on - except for the fact that one of the voices sounded like Kos.
 
-Once back on the plateau, Jana pieced together the situation by mobile - Alijosha and Spela had gone down to Kal, taken the ICCC rigging gear left in the third hut and went to the lower cave entrance pointed out to them the day before via an abseil down the cliff near Primadona where I had placed the cairn on the Ping Pong Ball Bombe action. 
+Once back on the plateau, Jana pieced together the situation by mobile - Alioša and Spela had gone down to Kal, taken the ICCC rigging gear left in the third hut and went to the lower cave entrance pointed out to them the day before via an abseil down the cliff near *Primadona* where I had placed the cairn on the Ping Pong Ball Bombe action. 
 Jana went down to Kal to discuss the situation that evening and came back up the next day rather upset. 
-The new cave was to be called Monatip ('Fucking Idiot' in the local dialect).
+The new cave was to be called *Monatip* ('Fucking Idiot' in the local dialect).
 
-The next day started with Goaty & Jarv surface surveying to B9. 
-Jana and I then descended the clif, surveying as we went. 
-Again, within the cave, we used the efficient technique of the lightweight Jana abseiling down past rub-points, followed by Jarv bolting the rebelays behind while Jana explored the next bit. 
-The pitch was perhaps the most beautiful entrance pitch on the mig plateau. 
+The next day started with Goaty and I surface surveying to *B9*. 
+Jana and I then descended the cliff, surveying as we went. 
+Again, within the cave, we used the efficient technique of the lightweight Jana abseiling down past rub-points, followed by myself bolting the rebelays behind while Jana explored the next bit. 
+The pitch was perhaps the most beautiful entrance pitch on the Migovec plateau. 
 From a bolt placed in the ceiling a hang dropped down past a fridge-sized boulder before swinging out to a rebelay (placed by using my walking boot heel 'skyhook'). 
 From here one abseiled down an almost perfect brick wall, above an enormous snow plug, before swinging into a little dry streamway cascade to finish the last bolt to land on the snow plug, which contained a large metre wide 6m deep hole bored out of the ice by wind or water, and similar, more narrow, gaps on the edges of the plug. 
 A small rift led off and immediately closed down. 
 From the top of the snow plug Jana found a crawl way under a rock bridge to a climb up on ice on one side and rock on the other (the ice was a more reliable foothold!), to reach a snow-filled chamber which was daylight flooded and clearly below the slope of the large entrance. 
-An ice traverse in this chamber (we named it Yorkshire Pudding, as it was a torus of snow with a dimpled center). 
-From the far side of the Christmas pudding one could squeeze down between the rock and snow, attempt a climb past a stack of wedged boulders towards the aven, or walk down a snow-bottomed meander. 
-The meander we named 'Acre Lane' after our London home. 
+An ice traverse in this chamber (we named it *Yorkshire Pudding*, as it was a torus of snow with a dimpled center). 
+From the far side of the Yorkshire pudding one could squeeze down between the rock and snow, attempt a climb past a stack of wedged boulders towards the aven, or walk down a snow-bottomed meander. 
+The meander we named '*Acre Lane*' after our London home. 
 This meander suddenly regained a rock floor and led on to a tight rift which seemed to be a small pitch head. 
 There were a lot of boulders strewn around. 
 Here we PSS'ed and headed back.
@@ -211,7 +211,7 @@ Jana had just reached the rebelay bolt going up, narrowly avoiding being caught 
 
 Once I stopped hyperventilating, and accepted that no further boulders were coming down, I carried on digging with bare (now bloodied hands) with ten minutes of frantic energy, a way was found. 
 Originally I was digging alongside the snow, but as it opened up I found I could go straight down and way. 
-A 5m climb on boulders took me down to the strangest chamber I have ever been in. 
+A 5 m climb on boulders took me down to the strangest chamber I have ever been in. 
 Still attached to the rope, I stood on a metre wide ledge that ran alongside a wall of perfect white ice. 
 The ice was wet - drips were everywhere. 
 The ledge continued and narrowed, snaking alongside this berg. 
@@ -225,10 +225,10 @@ The photo-gear was too much of an effort to get passed the tight rift-pitch.
 Ben placed his first bolt as a safety traverse across the ice. 
 After surveying back to above the rift pitch, we switched to photography documenting the cave as we derigged out with the rope and metalwork.
 
-Emil and Ben headed back to the Bivi while Jana & I bolted down with the Planika rope to reach Monatip in order for him & Izzy to surface and cave survey the following day. 
+Emil and Ben headed back to the Bivi while Jana and I bolted down with the Planika rope to reach Monatip in order for him and \izi to surface and cave survey the following day. 
 Glorious weather, we sat watching the sun set behind Krn, with the Venetian bay visible beyond.
 
-\attrib{Jarvist}
+\attrib{Jarvist Frost}
 
 
 ## Rik and Andy go to Plop (an abject Failure)
@@ -236,38 +236,37 @@ Glorious weather, we sat watching the sun set behind Krn, with the Venetian bay 
 (Rik's were written in van on way back across Europe, typed up by Jarv. 
 Proofread by Rik (hardcopy) + corrections added by Jarv.)
 
-The mission was simple – venture into Sys Mig, traverse the gaping holes on Level 2 to reach the ratty old rope for Faulty Towers and push into NCB. 
-Once there we hoped to bottom the fabled 'Plop', a big pitch just off NCB, rumoured to be over 50m, strongly draughting and utterly jinxed!
+The mission was simple – venture into *Sistem Migovec*, traverse the gaping holes on Level 2 to reach the ratty old rope for Faulty Towers and push into NCB. 
+Once there we hoped to bottom the fabled '*Plop*', a big pitch just off *NCB*, rumoured to be over 50 m, strongly draughting and utterly jinxed!
 
 Armed only with a vague description from a rather drunken Tetley the night before, we set off for M16 during a brief lull in the raging storm. 
-Once down in the cave we quickly hopped up to NCB, reviewing the excellent tourist trip across the big stuff in the system.
+Once down in the cave we quickly hopped up to *NCB*, reviewing the excellent tourist trip across the big stuff in the system.
 
-When we got to NCB, we stumbled as Tetley had not mentioned the lairy traverse over a ~20m drop on tatty 13-year-old 9mm. 
-We concluded that Plop was the pitch immediately below the rope from Torn T. 
+When we got to *NCB*, we stumbled as Tetley had not mentioned the hairy traverse over a ~20 m drop on tatty 13-year-old 9 mm rope. 
+We concluded that *Plop* was the pitch immediately below the rope coming in from *Torn T-shirt*. 
 This was the error which cost us the pitch. 
 The bolts continued down the pitch and I had a sinking feeling as I reached the bottom of this pointless lead.
 
-After this we inspected the rest of NCB going East, crossing the bad traverse with some care. 
+After this we inspected the rest of *NCB* going East, crossing the bad traverse with some care. 
 Andy and I took it in turns to examine the side passages and one of the ones I inspected was, as in the legend of '95, a very windy squeeze, which could be depth tested by throwing rocks with some difficulty. 
-I was sure this was it, but Andy had an earlier memory which led us to think that it might be Godzilla. 
+I was sure this was it, but Andy had an earlier memory which led us to think that it might be *Godzilla*. 
 Stones took around three or four seconds to drop!
 
-We left with five hours to spare before callout, on the very cautious side, and left the tackle bags at NCB. 
-Tomorrow we're going back, and this time Plop must be conquered!
+We left with five hours to spare before callout, on the very cautious side, and left the tackle bags at *NCB*. 
+Tomorrow we're going back, and this time *Plop* must be conquered!
 
 \attrib{Richard Venn}
 
-## The Eventful Conquest of Plopzilla (nee. 
-Plop)
+## The Eventful Conquest of Plopzilla (nee. Plop)
 
-After my first trip to NCB I was kept awake thinking about that three to four second drop known simply as 'Plop'. 
+After my first trip to *NCB* I was kept awake thinking about that three to four second drop known simply as '*Plop*'. 
 By eleven the next morning I'd managed to convince Andy of the merit of a return visit. 
-Since we'd left the necessary tools and rope for bolting a monster pitch in NCB, we quickly shot down the M16 entrance series and up Faulty Towers into NCB.
+Since we'd left the necessary tools and rope for bolting a monster pitch in *NCB*, we quickly shot down the *M16* entrance series and up *Faulty Towers* into *NCB*.
 
 Fairly terrified of getting stuck in the tight pitch head above that formidable drop, I took off most of my SRT kit, leaving just cows-tails and Croll. 
 The squeeze was fairly easy and Andy passed through the bags as I put in a bolt to make a Y-hang.
 
-Since Plop had already been attempted several times there were quite a few existing bolts. 
+Since *Plop* had already been attempted several times there were quite a few existing bolts. 
 I made use of these on the way, stopping only to take down a couple of boost bars: a bit of Cadbury Courage. 
 I felt oddly calm swinging about in the huge chamber. 
 We had thrown more rocks from the top but the bottom was too far away to see. 
